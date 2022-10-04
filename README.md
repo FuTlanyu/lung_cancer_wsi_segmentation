@@ -1,1 +1,1 @@
-# lung_cancer_wsi_segmentation
+# Lung Cancer Whole Slide Image (WSI) Segmentation
